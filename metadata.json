@@ -1,0 +1,8 @@
+{
+  "name": "Design Portfolio Pro",
+  "description": "A high-end, dark-themed professional portfolio for designers featuring AI-powered bio generation and interactive project showcases.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
